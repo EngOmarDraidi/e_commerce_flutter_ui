@@ -1,27 +1,16 @@
-# E-Commerce Flutter UI
+# e_commerce_flutter_ui
 
-E-commerce Flutter UI is a complete user interface template designed for building e-commerce applications using the Flutter framework. This UI template provides a comprehensive set of screens and components that can be used to create an entire e-commerce app with a modern and professional design.
+A new Flutter project.
 
-## To Run Locally
+## Getting Started
 
-Clone the project
+This project is a starting point for a Flutter application.
 
-```batch
-  git clone https://github.com/EngOmarDraidi/e_commerce_flutter_ui.git
-```
+A few resources to get you started if this is your first Flutter project:
 
-Go to project folder
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-```batch
-  cd e_commerce_flutter_ui
-```
-
-To run on emulator or real device
-
-```batch
-  flutter run Or ctrl + fn + F5
-```
-
-**Packages I am using:**
-  - flutter_screenutil: [link](https://pub.dev/packages/flutter_screenutil)
-  - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

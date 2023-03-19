@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
     return ScreenUtilInit(
       designSize: const Size(430, 932),
       builder: (context, child) => MaterialApp(
-        title: 'First project - GSG',
+        title: 'E-Commerce Flutter UI',
         theme: theme(),
         debugShowCheckedModeBanner: false,
         initialRoute: AppRoutes.onBoardingScreen,
