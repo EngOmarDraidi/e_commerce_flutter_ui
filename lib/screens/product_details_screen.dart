@@ -15,6 +15,7 @@ class ProductDetailsScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.grey.shade100,
       body: ListView(
+        physics: const NeverScrollableScrollPhysics(),
         children: [
           HeaderScreen(
             rating: product.rating!,
