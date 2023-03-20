@@ -25,3 +25,5 @@ To run on emulator or real device
 **Packages I am using:**
     - flutter_screenutil: [link](https://pub.dev/packages/flutter_screenutil)
     - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
+    
+**Video preview of project:** [link](https://www.linkedin.com/posts/engomardraidi_ecommerce-ui-appdevelopment-activity-7043618441190064128-eF51?utm_source=share&utm_medium=member_desktop)
